@@ -1,0 +1,64 @@
+{
+  "name": "@mdbootstrap/react-news-feed",
+  "version": "1.0.0",
+  "description": "Responsive React News Feed templates built with Bootstrap 5. News article feed, instagram, facebook and twitter-like feed, posts with comments, social section & more.",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "mdb-react-ui-kit": "^4.0.0",
+    "react": "^18.1.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^18.1.0",
+    "react-redux": "^8.0.5",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-slideshow-image": "^4.2.1",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start  --proxy-config proxy-config.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "template",
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "news",
+    "feed",
+    "news-feed"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-news-feed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-news-feed/issues"
+  },
+  "homepage": "/"
+}

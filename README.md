@@ -1,1 +1,2 @@
-# Take-Home-Challenge-News-Aggregator-Client-side
+# RUN DOCKER COMPOSE TO SEE THE MAGIC !
+    docker-compose up --build 
